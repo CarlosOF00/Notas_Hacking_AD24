@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Bandit/level 28 - level 29.md",
+                "file": "Retos_Bandit/level 4 - level 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Bandit/level 28 - level 29.md",
+                "file": "Retos_Bandit/level 4 - level 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Bandit/level 28 - level 29.md",
+                "file": "Retos_Bandit/level 4 - level 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Bandit/level 28 - level 29.md"
+                "file": "Retos_Bandit/level 4 - level 5.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "35ebdde192096395",
+  "active": "5c0c6bfc49501dcc",
   "lastOpenFiles": [
+    "Retos_Bandit/level 3 - level 4.md",
+    "Retos_Bandit/level 4 - level 5.md",
+    "Retos_Bandit/level 28 - level 29.md",
     "Retos_Bandit/level 33 - level 34.md",
     "Retos_Bandit/level 32 - level 33.md",
     "Retos_Bandit/level 31 - level 32.md",
     "Retos_Bandit/level 30 - level 31.md",
     "Retos_Bandit/level 29 - level 30.md",
-    "Retos_Bandit/level 28 - level 29.md",
     "Retos_Bandit/level 27 - level 28.md",
     "Plantilla.md",
     "Retos_Bandit/level 26 - level 27.md",
@@ -172,8 +174,6 @@
     "Retos_Bandit/level 12 - level 13.md",
     "Retos_Bandit/level 11 - level 12.md",
     "Retos_Bandit/level 10 - level 11.md",
-    "Retos_Bandit/level 13 - level 14.md",
-    "Retos_Bandit/level 2 - level 3.md",
     "Notas_Hacking"
   ]
 }
