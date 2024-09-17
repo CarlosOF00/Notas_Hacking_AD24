@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1f07b329fb2fb1d6",
+        "id": "a96f2ad36a32ce80",
         "type": "tabs",
         "children": [
           {
-            "id": "c9be6f84bd2a4173",
+            "id": "d6c634b353e6e5bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md"
+              }
             }
           }
         ]
@@ -138,39 +146,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "35ebdde192096395",
+  "active": "d6c634b353e6e5bd",
   "lastOpenFiles": [
-    "Examen Parcial 1/Parte 4",
-    "Examen Parcial 1/Parte 3",
-    "Examen Parcial 1/Sin título.md",
-    "Sin nombre",
-    "Retos_Bandit/level 4 - level 5.md",
-    "Examen Parcial 1/Parte 2",
-    "Examen Parcial 1/Parte 1",
-    "Examen Parcial 1",
-    "Retos_Bandit/level 3 - level 4.md",
-    "Retos_Bandit/level 28 - level 29.md",
-    "Retos_Bandit/level 33 - level 34.md",
-    "Retos_Bandit/level 32 - level 33.md",
-    "Retos_Bandit/level 31 - level 32.md",
-    "Retos_Bandit/level 30 - level 31.md",
-    "Retos_Bandit/level 29 - level 30.md",
-    "Retos_Bandit/level 27 - level 28.md",
-    "Plantilla.md",
-    "Retos_Bandit/level 26 - level 27.md",
-    "Retos_Bandit/level 22 - level 23.md",
-    "Retos_Bandit/level 23 - level 24.md",
-    "Retos_Bandit/level 24 - level 25.md",
-    "Retos_Bandit/level 25 - level 26.md",
-    "Retos_Bandit/level 21 - level 22.md",
-    "Retos_Bandit/level 20 - level 21.md",
-    "Retos_Bandit/level 19 - level 20.md",
-    "Retos_Bandit/level 18 - level 19.md",
-    "Retos_Bandit/level 17 - level 18.md",
-    "Retos_Bandit/level 16 - level 17.md",
-    "Retos_Bandit/level 15 - level 16.md",
-    "Retos_Bandit/level 14 - level 15.md",
-    "Retos_Bandit/level 12 - level 13.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Serpentine.py.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/PW Crack 3.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/useless.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Special.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Plumbing.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Let's Warm Up.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/chrono.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Based.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/ASCII Numbers.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Nice NetCat.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Strings It.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/First Grep.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/what's a net cat.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Wave a Flag.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Warmed Up.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Static ain't always noise.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Obedient Cat.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/Bases.md",
+    "PicoCTF/Examen Parcial 1/Parte 3/2Warm.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/Tab, Tab, Attack.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/runme.py.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/PW Crack 2.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/PW Crack 1.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/Magikarp Ground Mission.md",
+    "PicoCTF/Examen Parcial 1/Parte 2/Glitch Cat.md",
+    "PicoCTF/Examen Parcial 1/Parte 1/Binhexa.png",
+    "PicoCTF/Examen Parcial 1/Parte 4/BasedCap.png",
+    "PicoCTF/Examen Parcial 1/Parte 2/ConvertmeCap.png",
+    "Pasted image 20240916203822.png",
+    "Sin título.canvas",
+    "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
+    "PicoCTF",
+    "PicoCTF/Examen Parcial 1/Parte 4",
+    "PicoCTF/Examen Parcial 1/Parte 3",
+    "PicoCTF/Examen Parcial 1/Parte 2",
+    "PicoCTF/Examen Parcial 1/Parte 1",
+    "PicoCTF/Examen Parcial 1",
     "Notas_Hacking"
   ]
 }
