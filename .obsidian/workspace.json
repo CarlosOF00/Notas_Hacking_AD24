@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+                "file": "Retos_Web/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+                "file": "Retos_Web/picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+                "file": "Retos_Web/picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md"
+                "file": "Retos_Web/picobrowser.md"
               }
             }
           }
@@ -148,12 +148,29 @@
   },
   "active": "d6c634b353e6e5bd",
   "lastOpenFiles": [
+    "Retos_Web/picobrowserCap4.png",
+    "Retos_Web/picobrowser.md",
+    "Retos_Web/picobrowserCap3.png",
+    "Retos_Web/picobrowserCap2.png",
+    "Retos_Web/picobrowserCap1.png",
+    "Retos_Web/where are the robots.md",
+    "Retos_Web/logon.md",
+    "Retos_Web/Insp3ct0r.md",
+    "Retos_Web/dont-use-client-side.md",
+    "Retos_Web/Client-side-again.md",
+    "Retos_Web/logonCap4.png",
+    "Retos_Web/logonCap3.png",
+    "Retos_Web/logonCap2.png",
+    "Retos_Web/logonCap1.png",
+    "Retos_Web/Pasted image 20240919110525.png",
+    "Plantilla.md",
+    "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
+    "Retos_Web",
     "PicoCTF/Examen Parcial 1/Parte 4/Serpentine.py.md",
     "PicoCTF/Examen Parcial 1/Parte 4/PW Crack 3.md",
     "PicoCTF/Examen Parcial 1/Parte 4/useless.md",
     "PicoCTF/Examen Parcial 1/Parte 4/Special.md",
     "PicoCTF/Examen Parcial 1/Parte 4/Plumbing.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
     "PicoCTF/Examen Parcial 1/Parte 4/Let's Warm Up.md",
     "PicoCTF/Examen Parcial 1/Parte 4/chrono.md",
     "PicoCTF/Examen Parcial 1/Parte 4/Based.md",
@@ -166,18 +183,7 @@
     "PicoCTF/Examen Parcial 1/Parte 3/Warmed Up.md",
     "PicoCTF/Examen Parcial 1/Parte 3/Static ain't always noise.md",
     "PicoCTF/Examen Parcial 1/Parte 3/Obedient Cat.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Bases.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/2Warm.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/Tab, Tab, Attack.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/runme.py.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/PW Crack 2.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/PW Crack 1.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/Magikarp Ground Mission.md",
-    "PicoCTF/Examen Parcial 1/Parte 2/Glitch Cat.md",
     "PicoCTF/Examen Parcial 1/Parte 1/Binhexa.png",
-    "PicoCTF/Examen Parcial 1/Parte 4/BasedCap.png",
-    "PicoCTF/Examen Parcial 1/Parte 2/ConvertmeCap.png",
-    "Pasted image 20240916203822.png",
     "Sin título.canvas",
     "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
     "PicoCTF",
