@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Web/picobrowser.md",
+                "file": "Retos_Web/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Web/picobrowser.md",
+                "file": "Retos_Web/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Web/picobrowser.md",
+                "file": "Retos_Web/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Web/picobrowser.md"
+                "file": "Retos_Web/JaWT Scratchpad.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "d6c634b353e6e5bd",
   "lastOpenFiles": [
-    "Retos_Web/picobrowserCap4.png",
+    "Retos_Web/Irish-Name-Repo 3.md",
+    "Retos_Web/Irish-Name-Repo 2.md",
+    "Retos_Web/Irish-Name-Repo 1.md",
+    "Retos_Web/JaWT Scratchpad.md",
+    "Plantilla.md",
     "Retos_Web/picobrowser.md",
+    "Retos_Web/picobrowserCap4.png",
     "Retos_Web/picobrowserCap3.png",
     "Retos_Web/picobrowserCap2.png",
     "Retos_Web/picobrowserCap1.png",
@@ -163,7 +168,6 @@
     "Retos_Web/logonCap2.png",
     "Retos_Web/logonCap1.png",
     "Retos_Web/Pasted image 20240919110525.png",
-    "Plantilla.md",
     "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
     "Retos_Web",
     "PicoCTF/Examen Parcial 1/Parte 4/Serpentine.py.md",
@@ -180,9 +184,6 @@
     "PicoCTF/Examen Parcial 1/Parte 3/First Grep.md",
     "PicoCTF/Examen Parcial 1/Parte 3/what's a net cat.md",
     "PicoCTF/Examen Parcial 1/Parte 3/Wave a Flag.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Warmed Up.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Static ain't always noise.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Obedient Cat.md",
     "PicoCTF/Examen Parcial 1/Parte 1/Binhexa.png",
     "Sin título.canvas",
     "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
