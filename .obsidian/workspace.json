@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a96f2ad36a32ce80",
+        "id": "bfd6ec924697d9de",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c634b353e6e5bd",
+            "id": "04551fb3cc0a8de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Web/JaWT Scratchpad.md",
+                "file": "Retos_Web/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Web/JaWT Scratchpad.md",
+                "file": "Retos_Web/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Web/JaWT Scratchpad.md",
+                "file": "Retos_Web/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Web/JaWT Scratchpad.md"
+                "file": "Retos_Web/Scavenger Hunt.md"
               }
             }
           }
@@ -146,27 +146,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d6c634b353e6e5bd",
+  "active": "04551fb3cc0a8de8",
   "lastOpenFiles": [
-    "Retos_Web/Irish-Name-Repo 3.md",
-    "Retos_Web/Irish-Name-Repo 2.md",
-    "Retos_Web/Irish-Name-Repo 1.md",
-    "Retos_Web/JaWT Scratchpad.md",
-    "Plantilla.md",
+    "Retos_Web/GET aHead.md",
+    "Retos_Web/Cookies.md",
+    "Retos_Web/Scavenger Hunt.md",
     "Retos_Web/picobrowser.md",
-    "Retos_Web/picobrowserCap4.png",
-    "Retos_Web/picobrowserCap3.png",
-    "Retos_Web/picobrowserCap2.png",
     "Retos_Web/picobrowserCap1.png",
-    "Retos_Web/where are the robots.md",
     "Retos_Web/logon.md",
-    "Retos_Web/Insp3ct0r.md",
     "Retos_Web/dont-use-client-side.md",
     "Retos_Web/Client-side-again.md",
+    "Plantilla.md",
     "Retos_Web/logonCap4.png",
     "Retos_Web/logonCap3.png",
     "Retos_Web/logonCap2.png",
     "Retos_Web/logonCap1.png",
+    "Retos_Web/JaWT Scratchpad.md",
+    "Retos_Web/Irish-Name-Repo 3.md",
+    "Retos_Web/Irish-Name-Repo 2.md",
+    "Retos_Web/Irish-Name-Repo 1.md",
+    "Retos_Web/picobrowserCap4.png",
+    "Retos_Web/picobrowserCap3.png",
+    "Retos_Web/picobrowserCap2.png",
+    "Retos_Web/where are the robots.md",
+    "Retos_Web/Insp3ct0r.md",
     "Retos_Web/Pasted image 20240919110525.png",
     "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
     "Retos_Web",
@@ -181,9 +184,6 @@
     "PicoCTF/Examen Parcial 1/Parte 4/ASCII Numbers.md",
     "PicoCTF/Examen Parcial 1/Parte 3/Nice NetCat.md",
     "PicoCTF/Examen Parcial 1/Parte 3/Strings It.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/First Grep.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/what's a net cat.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Wave a Flag.md",
     "PicoCTF/Examen Parcial 1/Parte 1/Binhexa.png",
     "Sin título.canvas",
     "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
