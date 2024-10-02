@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Web/Scavenger Hunt.md",
+                "file": "Retos_Forensic/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Web/Scavenger Hunt.md",
+                "file": "Retos_Forensic/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Web/Scavenger Hunt.md",
+                "file": "Retos_Forensic/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Web/Scavenger Hunt.md"
+                "file": "Retos_Forensic/What Lies Within.md"
               }
             }
           }
@@ -148,42 +148,43 @@
   },
   "active": "04551fb3cc0a8de8",
   "lastOpenFiles": [
-    "Retos_Web/GET aHead.md",
+    "Retos_Forensic/So Meta.md",
+    "Retos_Forensic/shark on wire 1.md",
+    "Retos_Forensic/extensions.md",
+    "Retos_Forensic/Glory of the Garden.md",
+    "Plantilla.md",
+    "Retos_Web/MatchTheRegex.md",
+    "Retos_Web/Trickster.md",
+    "Retos_Web/SOAP.md",
+    "Retos_Web/Most Cookies.md",
     "Retos_Web/Cookies.md",
+    "Retos_Web/Insp3ct0r.md",
+    "Retos_Web/Client-side-again.md",
+    "Retos_Web/JaWT Scratchpad.md",
+    "Retos_Web/Irish-Name-Repo 3.md",
+    "Retos_Web/dont-use-client-side.md",
+    "Retos_Web/GET aHead.md",
+    "Retos_Web/Irish-Name-Repo 1.md",
+    "Retos_Web/logonCap3.png",
+    "Retos_Forensic/What Lies Within.md",
     "Retos_Web/Scavenger Hunt.md",
+    "Retos_Forensic",
     "Retos_Web/picobrowser.md",
     "Retos_Web/picobrowserCap1.png",
     "Retos_Web/logon.md",
-    "Retos_Web/dont-use-client-side.md",
-    "Retos_Web/Client-side-again.md",
-    "Plantilla.md",
     "Retos_Web/logonCap4.png",
-    "Retos_Web/logonCap3.png",
     "Retos_Web/logonCap2.png",
     "Retos_Web/logonCap1.png",
-    "Retos_Web/JaWT Scratchpad.md",
-    "Retos_Web/Irish-Name-Repo 3.md",
     "Retos_Web/Irish-Name-Repo 2.md",
-    "Retos_Web/Irish-Name-Repo 1.md",
     "Retos_Web/picobrowserCap4.png",
     "Retos_Web/picobrowserCap3.png",
     "Retos_Web/picobrowserCap2.png",
     "Retos_Web/where are the robots.md",
-    "Retos_Web/Insp3ct0r.md",
     "Retos_Web/Pasted image 20240919110525.png",
     "PicoCTF/Examen Parcial 1/Parte 4/Permissions.md",
     "Retos_Web",
     "PicoCTF/Examen Parcial 1/Parte 4/Serpentine.py.md",
     "PicoCTF/Examen Parcial 1/Parte 4/PW Crack 3.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/useless.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/Special.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/Plumbing.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/Let's Warm Up.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/chrono.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/Based.md",
-    "PicoCTF/Examen Parcial 1/Parte 4/ASCII Numbers.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Nice NetCat.md",
-    "PicoCTF/Examen Parcial 1/Parte 3/Strings It.md",
     "PicoCTF/Examen Parcial 1/Parte 1/Binhexa.png",
     "Sin título.canvas",
     "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
