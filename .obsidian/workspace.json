@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Forensic/Parte 2/Sharkonwire2.md",
+                "file": "Retos_Forensic/Parte 3/WebNet1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Forensic/Parte 2/Sharkonwire2.md",
+                "file": "Retos_Forensic/Parte 3/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Forensic/Parte 2/Sharkonwire2.md",
+                "file": "Retos_Forensic/Parte 3/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Forensic/Parte 2/Sharkonwire2.md"
+                "file": "Retos_Forensic/Parte 3/WebNet1.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "cec0574708021539",
   "lastOpenFiles": [
-    "Retos_Forensic/Parte 2/WhitePages.md",
+    "Retos_Forensic/Parte 3/WebNet0.md",
+    "Retos_Forensic/Parte 3/WebNet1.md",
+    "Retos_Forensic/Parte 3/Matryoshka doll.md",
+    "Retos_Forensic/Parte 3/tunn3l v1s10n.md",
+    "Retos_Forensic/Parte 3/MacroHard WeakEdge.md",
+    "Plantilla.md",
     "Retos_Forensic/Parte 2/Sharkonwire2.md",
+    "Retos_Forensic/Parte 3",
+    "Retos_Forensic/Parte 2/WhitePages.md",
     "Retos_Forensic/Parte 2/m00nwalk.md",
     "Retos_Forensic/Parte 2/like1000.md",
     "Retos_Forensic/Parte 2/c0rrupt.md",
@@ -158,7 +165,6 @@
     "Retos_Forensic/Parte 1/What Lies Within.md",
     "Retos_Web/logon.md",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
-    "Plantilla.md",
     "Retos_Forensic/Parte 2",
     "Retos_Forensic/Parte 1",
     "Retos_Forensic/Parte 1/So Meta.md",
@@ -172,13 +178,8 @@
     "Retos_Web/Cookies.md",
     "Retos_Web/Insp3ct0r.md",
     "Retos_Web/Client-side-again.md",
-    "Retos_Web/JaWT Scratchpad.md",
-    "Retos_Web/dont-use-client-side.md",
-    "Retos_Web/Irish-Name-Repo 1.md",
     "Retos_Web/logonCap3.png",
-    "Retos_Web/Scavenger Hunt.md",
     "Retos_Forensic",
-    "Retos_Web/picobrowser.md",
     "Retos_Web/picobrowserCap1.png",
     "Retos_Web/logonCap4.png",
     "Retos_Web/logonCap2.png",
@@ -193,7 +194,6 @@
     "PicoCTF",
     "PicoCTF/Examen Parcial 1/Parte 4",
     "PicoCTF/Examen Parcial 1/Parte 3",
-    "PicoCTF/Examen Parcial 1/Parte 2",
-    "PicoCTF/Examen Parcial 1/Parte 1"
+    "PicoCTF/Examen Parcial 1/Parte 2"
   ]
 }
