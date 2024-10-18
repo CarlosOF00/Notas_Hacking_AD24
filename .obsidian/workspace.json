@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+                "file": "CTF Metared ANUIES/Details.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret of the Polyglot"
+              "title": "Details"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+                "file": "CTF Metared ANUIES/Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Secret of the Polyglot"
+              "title": "Enlaces entrantes de Details"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+                "file": "CTF Metared ANUIES/Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Secret of the Polyglot"
+              "title": "Enlaces salientes de Details"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md"
+                "file": "CTF Metared ANUIES/Details.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Secret of the Polyglot"
+              "title": "Esquema de Details"
             }
           }
         ]
@@ -164,8 +164,11 @@
   },
   "active": "ddf90a895177429d",
   "lastOpenFiles": [
-    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/St3g0.md",
+    "Plantilla.md",
+    "CTF Metared ANUIES/Details.md",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+    "CTF Metared ANUIES",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/St3g0.md",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Wireshark twoo twooo two twoo....md",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Redaction gone wrong.md",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Pitter, Patter, Platters.md",
@@ -189,8 +192,6 @@
     "Retos Crypto",
     "Retos_Web/GET aHead.md",
     "Retos_Web/dont-use-client-side.md",
-    "Retos_Web/Client-side-again.md",
-    "Retos_Web/Scavenger Hunt.md",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic",
     "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic",
     "PicoCTF/Examen Parcial 2/Parte 2 - Parte 2 - Web",
@@ -200,7 +201,6 @@
     "Retos_Forensic/Parte 3",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
     "Retos_Forensic/Parte 2",
-    "Retos_Forensic/Parte 1",
     "Retos_Web/logonCap3.png",
     "Retos_Web/picobrowserCap1.png",
     "Retos_Web/logonCap4.png",
