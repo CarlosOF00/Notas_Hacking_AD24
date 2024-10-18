@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b57a0632a5c6dbe",
+        "id": "ec1fd813d87a2ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "e77f0a2cfbf33dd1",
+            "id": "ddf90a895177429d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secret of the Polyglot"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos_Forensic/Parte 4/Sleuthkit Intro.md",
+                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Secret of the Polyglot"
             }
           },
           {
@@ -98,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos_Forensic/Parte 4/Sleuthkit Intro.md",
+                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Secret of the Polyglot"
             }
           },
           {
@@ -112,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -121,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos_Forensic/Parte 4/Sleuthkit Intro.md"
-              }
+                "file": "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Secret of the Polyglot"
             }
           }
         ]
@@ -142,41 +162,46 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "35ebdde192096395",
+  "active": "ddf90a895177429d",
   "lastOpenFiles": [
-    "Retos_Forensic/Parte 4/Sleuthkit Apprentice.md",
-    "Retos_Forensic/Parte 4/Operation Orchid.md",
-    "Retos_Forensic/Parte 4/Operation Oni.md",
-    "Retos_Forensic/Parte 4/Milkslap.md",
-    "Retos_Forensic/Parte 4/Disk, disk, sleuth!.md",
-    "Retos_Forensic/Parte 4/Sleuthkit Intro.md",
-    "Plantilla.md",
-    "Retos_Forensic/Parte 4",
-    "Retos_Forensic/Sin título.md",
-    "Retos_Forensic/Parte 3/WebNet1.md",
-    "Retos_Forensic/Parte 3/WebNet0.md",
-    "Retos_Forensic/Parte 3/Matryoshka doll.md",
-    "Retos_Forensic/Parte 3/tunn3l v1s10n.md",
-    "Retos_Forensic/Parte 3/MacroHard WeakEdge.md",
-    "Retos_Forensic/Parte 2/Sharkonwire2.md",
-    "Retos_Forensic/Parte 3",
-    "Retos_Forensic/Parte 2/WhitePages.md",
-    "Retos_Forensic/Parte 2/m00nwalk.md",
-    "Retos_Forensic/Parte 2/like1000.md",
-    "Retos_Forensic/Parte 2/c0rrupt.md",
-    "Retos_Web/Irish-Name-Repo 3.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/St3g0.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Secret of the Polyglot.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Wireshark twoo twooo two twoo....md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Redaction gone wrong.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Pitter, Patter, Platters.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Lookey here.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/Disk, disk, sleuth! II.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/PcapPoisoning.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic/advanced-potion-making.md",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/PcapPoisoning.md",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/Packets Primer.md",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/MSB.md",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/information.md",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/FindAndOpen.md",
+    "Retos Crypto/la cifra de.md",
+    "Retos Crypto/Easy1.md",
+    "Retos Crypto/Caesar.md",
+    "Retos Crypto/13.md",
+    "Retos Crypto/waves over lambda.md",
+    "Retos Crypto/Tapping.md",
+    "Retos Crypto/The Numbers.md",
+    "Retos_Web/Trickster.md",
+    "Retos Crypto",
     "Retos_Web/GET aHead.md",
-    "Retos_Forensic/Parte 1/What Lies Within.md",
-    "Retos_Web/logon.md",
+    "Retos_Web/dont-use-client-side.md",
+    "Retos_Web/Client-side-again.md",
+    "Retos_Web/Scavenger Hunt.md",
+    "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic",
+    "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic",
+    "PicoCTF/Examen Parcial 2/Parte 2 - Parte 2 - Web",
+    "PicoCTF/Examen Parcial 2/Parte 1 - Parte 1 - Web",
+    "PicoCTF/Examen Parcial 2",
+    "Retos_Forensic/Parte 4",
+    "Retos_Forensic/Parte 3",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
     "Retos_Forensic/Parte 2",
     "Retos_Forensic/Parte 1",
-    "Retos_Forensic/Parte 1/So Meta.md",
-    "Retos_Forensic/Parte 1/shark on wire 1.md",
-    "Retos_Forensic/Parte 1/extensions.md",
-    "Retos_Forensic/Parte 1/Glory of the Garden.md",
     "Retos_Web/logonCap3.png",
-    "Retos_Forensic",
     "Retos_Web/picobrowserCap1.png",
     "Retos_Web/logonCap4.png",
     "Retos_Web/logonCap2.png",
@@ -185,11 +210,6 @@
     "Retos_Web/picobrowserCap3.png",
     "Retos_Web/picobrowserCap2.png",
     "Retos_Web/Pasted image 20240919110525.png",
-    "Retos_Web",
-    "Sin título.canvas",
-    "PicoCTF/Examen Parcial 1/Parte 3/Sin nombre",
-    "PicoCTF",
-    "PicoCTF/Examen Parcial 1/Parte 4",
-    "PicoCTF/Examen Parcial 1/Parte 3"
+    "Sin título.canvas"
   ]
 }
