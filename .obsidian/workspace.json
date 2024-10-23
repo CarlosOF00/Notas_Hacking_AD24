@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Crypto/Parte 2/b00tl3gRSA2.md",
+                "file": "Retos Crypto/Parte 3/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA2"
+              "title": "ReadMyCert"
             }
           }
         ]
@@ -164,10 +164,16 @@
   },
   "active": "ddf90a895177429d",
   "lastOpenFiles": [
-    "Retos Crypto/Parte 2/miniRSA.md",
-    "Retos Crypto/Parte 2/b00tl3gRSA2.md",
-    "Retos Crypto/Parte 2/rsa-pop-quiz.md",
+    "Retos Crypto/Parte 3/Pixelated.md",
+    "Retos Crypto/Parte 3/ReadMyCert.md",
+    "Retos Crypto/Parte 3/Mind your Ps and Qs.md",
+    "Retos Crypto/Parte 3/HideToSee.md",
+    "Retos Crypto/Parte 3/basic-mod1.md",
     "Plantilla.md",
+    "Retos Crypto/Parte 2/b00tl3gRSA2.md",
+    "Retos Crypto/Parte 3",
+    "Retos Crypto/Parte 2/miniRSA.md",
+    "Retos Crypto/Parte 2/rsa-pop-quiz.md",
     "CTF Metared ANUIES/Details.md",
     "Retos Crypto/Parte 2",
     "Retos Crypto/Sin título.md",
@@ -188,18 +194,12 @@
     "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/information.md",
     "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic/FindAndOpen.md",
     "Retos Crypto/Parte 1/la cifra de.md",
-    "Retos Crypto/Parte 1/Easy1.md",
-    "Retos Crypto/Parte 1/Caesar.md",
-    "Retos Crypto/Parte 1/13.md",
-    "Retos Crypto/Parte 1/waves over lambda.md",
-    "Retos Crypto/Parte 1/Tapping.md",
     "Retos Crypto",
     "PicoCTF/Examen Parcial 2/Parte 4 - Parte 2 - Forensic",
     "PicoCTF/Examen Parcial 2/Parte 3 - Parte 1  - Forensic",
     "PicoCTF/Examen Parcial 2/Parte 2 - Parte 2 - Web",
     "PicoCTF/Examen Parcial 2/Parte 1 - Parte 1 - Web",
     "PicoCTF/Examen Parcial 2",
-    "Retos_Forensic/Parte 4",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
     "Retos_Web/logonCap3.png",
     "Retos_Web/picobrowserCap1.png",
