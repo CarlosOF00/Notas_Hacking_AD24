@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_Reverse/Parte 3/asm3.md",
+                "file": "Retos_Reverse/Parte 4/asm4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asm3"
+              "title": "asm4"
             }
           }
         ]
@@ -162,13 +162,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "35ebdde192096395",
+  "active": "ddf90a895177429d",
   "lastOpenFiles": [
-    "Retos_Reverse/Parte 3/asm2.md",
-    "Retos_Reverse/Parte 3/asm3.md",
-    "Retos_Reverse/Parte 3/asm1.md",
+    "Retos_Reverse/Parte 4/Need For Speed.md",
+    "Retos_Reverse/Parte 4/reverse_cipher.md",
+    "Retos_Reverse/Parte 4/GDB Test Drive.md",
     "Retos_Reverse/Parte 4/asm4.md",
     "Plantilla.md",
+    "Retos_Reverse/Parte 3/asm3.md",
+    "Retos_Reverse/Parte 4",
+    "Retos_Reverse/Parte 3/asm2.md",
+    "Retos_Reverse/Parte 3/asm1.md",
     "README.md",
     "Retos_Reverse/Parte 2/timer.md",
     "Retos_Reverse/Parte 3",
@@ -191,15 +195,10 @@
     "Retos Crypto/Parte 3/Mind your Ps and Qs.md",
     "Retos Crypto/Parte 3/HideToSee.md",
     "Retos Crypto/Parte 3/basic-mod1.md",
-    "Retos Crypto/Parte 2/b00tl3gRSA2.md",
     "Retos Crypto/Parte 3",
-    "Retos Crypto/Parte 2/miniRSA.md",
-    "Retos Crypto/Parte 2/rsa-pop-quiz.md",
-    "CTF Metared ANUIES/Details.md",
     "Retos Crypto/Parte 2",
     "Retos Crypto/Parte 1",
     "CTF Metared ANUIES",
-    "Retos Crypto",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
     "Retos_Web/logonCap3.png",
     "Retos_Web/picobrowserCap1.png",
