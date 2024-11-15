@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos_BinaryE/Parte 1/Stonks.md",
+                "file": "Retos_BinaryE/Parte 2/clutter-overflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stonks"
+              "title": "clutter-overflow"
             }
           }
         ]
@@ -164,12 +164,23 @@
   },
   "active": "3b2adc8bafca8761",
   "lastOpenFiles": [
+    "Retos_BinaryE/Parte 2/buffer overflow 1.md",
+    "Retos_BinaryE/Parte 2/clutter-overflow.md",
+    "Plantilla.md",
+    "Retos_BinaryE/Parte 2",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/C3.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/Sin título 5.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/Sin título 4.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/Sin título 3.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/Sin título 2.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1/Sin título 1.md",
+    "Retos_BinaryE/Parte 1/Stonks.md",
+    "PicoCTF/Examen Parcial 3/Parte 1 - Retos Crypto 1",
+    "PicoCTF/Examen Parcial 3",
     "Retos_BinaryE/Parte 1/RPS.md",
     "Retos_BinaryE/Parte 1/flag leak.md",
     "Retos_BinaryE/Parte 1/buffer overflow 0.md",
     "Retos_BinaryE/Parte 1/basic-file-exploit.md",
-    "Retos_BinaryE/Parte 1/Stonks.md",
-    "Plantilla.md",
     "README.md",
     "Retos_BinaryE/Parte 1",
     "Retos_BinaryE",
@@ -186,20 +197,9 @@
     "Retos_Reverse/Parte 2/Safe Opener 2.md",
     "Retos_Reverse/Parte 2/Picker IV.md",
     "Retos_Reverse/Parte 2/Picker lll.md",
-    "Retos_Reverse/Parte 2/Picker ll.md",
-    "Retos_Reverse/Parte 2/Picker I.md",
-    "Retos_Reverse/Parte 1/vault-door-4.md",
     "Retos_Reverse/Parte 2",
-    "Retos_Reverse/Parte 1/vault-door-5.md",
     "Retos_Reverse/Parte 1",
-    "Retos_Reverse/Parte 1/vault-door-3.md",
-    "Retos_Reverse/Parte 1/vault-door-1.md",
-    "Retos_Reverse/Parte 1/vault-door-training.md",
-    "Retos Crypto/Parte 3/ReadMyCert.md",
     "Retos_Reverse",
-    "Retos Crypto/Parte 3",
-    "Retos Crypto/Parte 2",
-    "Retos Crypto/Parte 1",
     "Retos_Forensic/Parte 2/Pasted image 20241006102046.png",
     "Retos_Web/logonCap3.png",
     "Retos_Web/picobrowserCap1.png",
